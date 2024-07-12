@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kedar Shinde</h1>
 <h3 align="center">I am a passionate developer</h3>
 
-- 🔭 I’m currently working on **VitaFile**
+- 🔭 I’m currently working on **[Researching Duplication in 2D-Cellular Automata](https://github.com/ked1108/2d-cellular-automata-simulation)**
 
 - 🌱 I’m currently learning **Rust**
 
