@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kedar Shinde</h1>
 
-- 🔭 I’m currently working on **[Researching Duplication in 2D-Cellular Automata](https://github.com/ked1108/2d-cellular-automata-simulation)**
+- 🔭 I’m currently working on **[Advent of Code 2024](https://github.com/ked1108/AOC_24)**
 
 - 🌱 I’m currently learning **Rust**
 
