@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kedar Shinde</h1>
 
-- 🔭 I’m currently working on **[Advent of Code 2024](https://github.com/ked1108/AOC_24)**
+- 🔭 I’m currently working on **[Raytracer](https://github.com/ked1108/Raytracer)**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Computer Graphics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ked1108](https://github.com/ked1108)
 
